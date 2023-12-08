@@ -1,0 +1,11 @@
+{
+"name": "bt4g",
+"displayname": "bt4g",
+"description": "bt4g Chinese bt search",
+"version": "1.0",
+"accountsupport": false,
+"site": "https://bt4gprx.com",
+"module": "search.php",
+"type": "search",
+"class": "CodemonsterDlmSearchBt4g"
+}
